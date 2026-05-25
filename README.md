@@ -1,7 +1,6 @@
 # Proyecto-programaci-n
 Sistema de iluminación automático con un buzzer
-===============================
-README - Proyecto Arduino LDR
+
 ===============================
 
 1. DESCRIPCIÓN DEL PROYECTO
